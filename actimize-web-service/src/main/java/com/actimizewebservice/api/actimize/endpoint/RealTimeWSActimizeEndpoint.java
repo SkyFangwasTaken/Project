@@ -7,8 +7,8 @@ import org.springframework.ws.server.endpoint.annotation.RequestPayload;
 import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 
 import com.actimizewebservice.api.actimize.service.RealTimeWSActimizeService;
-import com.actmizewebservice.api.actimize.RealTimeWSProviderRequest;
-import com.actmizewebservice.api.actimize.RealTimeWSProviderResponse;
+import com.actimizewebservice.api.actimize.RealTimeWSProviderRequest;
+import com.actimizewebservice.api.actimize.RealTimeWSProviderResponse;
 
 @Endpoint
 public class RealTimeWSActimizeEndpoint {
